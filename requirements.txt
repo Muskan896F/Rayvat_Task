@@ -1,0 +1,7 @@
+ipykernel
+pandas
+numpy
+tensorflow
+numpy
+scikit-learn
+
